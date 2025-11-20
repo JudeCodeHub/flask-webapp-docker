@@ -9,5 +9,3 @@ A basic web application built with **Python Flask** that displays:
 This project is containerized using **Docker**.
 
 ---
-
-## Project Structure
